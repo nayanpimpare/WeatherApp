@@ -4,6 +4,8 @@
   "description": "",
   "keywords": [],
   "main": "src/index.js",
+  "author": "Nayan Pimpare",
+  "email": "npimpare@gmail.com",
   "dependencies": {
     "@material-ui/core": "4.11.0",
     "axios": "0.20.0",
