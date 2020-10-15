@@ -65,7 +65,8 @@ const Weather = () => {
           </Col>
         </Row>
       </Container>
-      {weatherResponse ? <ShowTemp weatherResponse={weatherResponse} /> : null}
+      {/* {weatherResponse ? <ShowTemp weatherResponse={weatherResponse} /> : null} */}
+      <ShowTemp weatherResponse={weatherResponse} />
     </div>
   );
 };
